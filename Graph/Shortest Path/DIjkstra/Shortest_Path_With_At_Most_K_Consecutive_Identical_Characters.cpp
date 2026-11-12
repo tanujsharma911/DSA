@@ -14,6 +14,7 @@ of the nodes along the path contains at most k consecutive identical characters.
 */
 
 #include <iostream>
+#include <map>
 
 using namespace std;
 
